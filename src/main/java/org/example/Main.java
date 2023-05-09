@@ -8,6 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.println("Hello everyone");
+        System.out.println("HELLO MANISH");
 
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
